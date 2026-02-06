@@ -61,4 +61,13 @@ The system generates realistic candidate data, ranks them automatically, and pro
 
 ---
 
+## 🎓 Author
+Kandadi Siddartha  
+Final Year B.Tech (CSE)   
+Sree Dattha Institute of Engineering and Science, Hyderabad  
+[siddharthakandadi@gmail.com](mailto:siddharthakandadi@gmail.com)  
+LinkedIn: [https://linkedin.com/in/siddartha-kandadi-90593326b](https://linkedin.com/in/siddarthakandadi)
+
+---
+
 *This project was built for the Green Cycle Productions Internship Assignment.*
