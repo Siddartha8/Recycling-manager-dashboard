@@ -1,0 +1,8 @@
+{
+  "name": "ventu-renewable-pl",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@faker-js/faker": "^9.0.0"
+  }
+}
