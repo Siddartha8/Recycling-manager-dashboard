@@ -2,7 +2,7 @@
 
 **AI-Assisted Candidate Evaluation System**
 
-![Dashboard Preview](Screenshot%202026-02-06%20232714.png)
+![Dashboard Preview](dashboard-preview.png)
 
 ## 📌 Overview
 This project is a React-based dashboard designed to streamline the hiring process for a **Recycling Production Line Manager**. It simulates an AI-powered system that evaluates candidates based on three critical metrics:
