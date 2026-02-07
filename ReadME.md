@@ -353,13 +353,13 @@ Potential improvements for production deployment:
 ## 📸 Screenshots
 
 ### Dashboard Overview
-![Dashboard Header](./screenshots/dashboard-header.png)
+![Dashboard Header](dashboard-preview.png)
 
 ### Leaderboard Table
-![Leaderboard](./screenshots/leaderboard-table.png)
+![Leaderboard](Leaderboard-table.png)
 
 ### Candidate Cards
-![Candidate Cards](./screenshots/candidate-cards.png)
+![Candidate Cards](candidate-card.png)
 
 ---
 
